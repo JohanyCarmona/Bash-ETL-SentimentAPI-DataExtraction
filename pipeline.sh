@@ -27,7 +27,7 @@ while IFS= read -r line; do
   count=$((count+1))
   echo Pipeline: filename $count
   filename=$line
-  ./extract.sh $filename.trm
-  echo $filename.trm.ext have been successfully created.
+  ./extract.sh $filename
+  echo $filename.ext have been successfully created.
 
 done < $PIPELINE
