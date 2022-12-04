@@ -2,9 +2,9 @@
 ####
 Execute extracting process to get Sentiment score from multiples .*.csv files. The score will be evaluated from first column of .csv file.
 ####
-By Johany A. Carmona C.
+By Johany Carmona
 ####
-Email: johany.carmona@pm.me; johany.carmona@tuta.io
+Email: johany.carmona@tuta.io
 
 ### About: API
 ###
